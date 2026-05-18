@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "blackkk",
+    "description": "Kho extension tự làm cho Vbook"
+  },
+  "data": [
+    {
+      "name": "69shuba_TW",
+      "author": "blackkk",
+      "path": "https://github.com/Blackluffy2k4/my-vbook-ext/raw/refs/heads/main/plugin.zip",
+      "version": 1,
+      "source": "https://www.69shuba.tw",
+      "icon": "",
+      "description": "Đọc truyện trên 69shuba tên miền TW"
+    }
+  ]
+}
